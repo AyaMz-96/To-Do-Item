@@ -1,5 +1,5 @@
 {
-    "taches": [
+    "tasks": [
         { 
             "id": 1, "texte": "Faire les courses (lait, pain, œufs)", "statut": false 
         },
